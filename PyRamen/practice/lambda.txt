@@ -1,0 +1,9 @@
+#Identify the most and least profitable ramen
+most_profitable_ramen = max(report, key = lambda x:report[x]['04-profit'])
+least_profitable_ramen = min(report, key = lambda x:report[x]['04-profit'])
+
+#Identify the most and least popular ramen
+most_pop_ramen = max(report, key = lambda x:report[x]['01-count'])
+least_pop_ramen = min(report, key = lambda x:report[x]['01-count'])
+
+print(most_profitable_ramen, least_profitable_ramen, most_pop_ramen, least_pop_ramen)
