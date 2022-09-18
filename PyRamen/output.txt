@@ -1,5 +1,3 @@
-Financial Analysis
---------------------------------------------------
 nagomi shoyu {'01-count': 9132, '02-revenue': 152449910, '03-cogs': 335389802.0, '04-profit': -182939892.0}
 shio ramen {'01-count': 9180, '02-revenue': 154073470, '03-cogs': 338961634.0, '04-profit': -184888164.0}
 spicy miso ramen {'01-count': 9238, '02-revenue': 157255385, '03-cogs': 377412924.0, '04-profit': -220157539.0}
